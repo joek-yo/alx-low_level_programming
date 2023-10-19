@@ -1,7 +1,10 @@
 #include <stdio.h>
 
 /**
- * main 0 prints all possible different combinations of two digits.
+ * main - Prints all possible different combinations of two digits.
+ *
+ * Description: This program prints all combinations of two digits
+ * where the second digit is greater than the first digit.
  *
  * Return: Always 0 (Success)
  */
