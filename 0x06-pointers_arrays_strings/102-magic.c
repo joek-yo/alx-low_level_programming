@@ -1,14 +1,5 @@
 #include <stdio.h>
 
-/**
- * main - Entry point of the program
- *
- * This function serves as the entry point for the program. It initializes
- * variables, performs some operations, and prints the result.
- *
- * Return: Always 0 (Success)
- */
-
 int main(void)
 {
 	int n;
@@ -30,3 +21,4 @@ int main(void)
 	printf("a[2] = %d\n", a[2]);
 	return (0);
 }
+
