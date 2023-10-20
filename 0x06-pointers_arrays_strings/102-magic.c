@@ -1,5 +1,16 @@
 #include <stdio.h>
 
+/**
+ * main - Entry point
+ *
+ * Description: This program demonstrates how to modify the value of a[2]
+ *              using a pointer without directly accessing
+ *              or modifying the array.
+ *              It sets a[2] to 98 by manipulating a pointer variable.
+ *
+ * Return: Always 0 (Success)
+ */
+
 int main(void)
 {
 	int n;
